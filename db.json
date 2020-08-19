@@ -63,18 +63,6 @@
       "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel"
     },
     {
-      "logo": "https://dummyimage.com/400x400/26912b/ffffff.png&text=V",
-      "name": "Valiant Business Media",
-      "address": "5th County, LA",
-      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem "
-    },
-    {
-      "logo": "https://dummyimage.com/400x400/4824d6/ffffff.png&text=H",
-      "name": "Hevlett Peckard",
-      "address": "N Dakota, New Jersey",
-      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim"
-    },
-    {
       "logo": "https://dummyimage.com/400x400/d63648/ffffff.png&text=M",
       "name": "Moinjidaro Inc.",
       "address": "West Mile, Sahara",
@@ -129,18 +117,6 @@
       "name": "Bauch Graham Tn",
       "address": "Lahsa, Tibet",
       "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit "
-    },
-    {
-      "logo": "https://dummyimage.com/400x400/b6ba72/ffffff.png&text=L",
-      "name": "Lebsack Zert Inc.",
-      "address": "Koala, Moscow",
-      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto"
-    },
-    {
-      "logo": "https://dummyimage.com/400x400/4824d6/ffffff.png&text=D",
-      "name": "Dietrich Z",
-      "title": "Birmhingham, UK",
-      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem."
     }
   ],
   "exhibitors": [
@@ -167,12 +143,6 @@
       "name": "Moinjidaro Inc.",
       "address": "West Mile, Sahara",
       "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus."
-    },
-    {
-      "logo": "https://dummyimage.com/400x400/c9c42f/ffffff.png&text=M",
-      "name": "Melominac Inc.",
-      "address": "Jerebola, Sudan",
-      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto"
     },
     {
       "logo": "https://dummyimage.com/400x400/4824d6/ffffff.png&text=D",
