@@ -1,0 +1,227 @@
+{
+  "speakers": [
+    {
+      "name": "Leanne Graham",
+      "title": "Romaguera-Crona",
+      "qualification": "harness real-time e-markets",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    },
+    {
+      "name": "Ervin Howell",
+      "title": "Deckow-Crist",
+      "qualification": "synergize scalable supply-chains",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim"
+    },
+    {
+      "name": "Clementine Bauch",
+      "title": "Romaguera-Jacobson",
+      "qualification": "e-enable strategic applications",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    },
+    {
+      "name": "Patricia Lebsack",
+      "title": "Robel-Corkery",
+      "qualification": "transition cutting-edge web services",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    },
+    {
+      "name": "Chelsey Dietrich",
+      "title": "Keebler LLC",
+      "qualification": "revolutionize end-to-end systems",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    },
+    {
+      "name": "Mrs. Dennis Schulist",
+      "title": "Johns Group",
+      "qualification": "generate enterprise e-tailers",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    },
+    {
+      "name": "Nicholas Runolfsdottir V",
+      "title": "Yost and Sons",
+      "qualification": "e-enable extensible e-tailers",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    },
+    {
+      "name": "Glenna Reichert",
+      "title": "Romaguera-Crona",
+      "qualification": "aggregate real-time technologies",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    },
+    {
+      "name": "Clementina DuBuque",
+      "title": "Hoeger LLC",
+      "qualification": "target end-to-end models",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    }
+  ],
+
+  "organisers": [
+    {
+      "name": "Leanne Graham",
+      "title": "Romaguera-Crona",
+      "qualification": "harness real-time e-markets",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    },
+    {
+      "name": "Ervin Howell",
+      "title": "Deckow-Crist",
+      "qualification": "synergize scalable supply-chains",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim"
+    },
+    {
+      "name": "Clementine Bauch",
+      "title": "Romaguera-Jacobson",
+      "qualification": "e-enable strategic applications",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    },
+    {
+      "name": "Patricia Lebsack",
+      "title": "Robel-Corkery",
+      "qualification": "transition cutting-edge web services",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    },
+    {
+      "name": "Chelsey Dietrich",
+      "title": "Keebler LLC",
+      "qualification": "revolutionize end-to-end systems",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    },
+    {
+      "name": "Mrs. Dennis Schulist",
+      "title": "Johns Group",
+      "qualification": "generate enterprise e-tailers",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    },
+    {
+      "name": "Nicholas Runolfsdottir V",
+      "title": "Yost and Sons",
+      "qualification": "e-enable extensible e-tailers",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    },
+    {
+      "name": "Glenna Reichert",
+      "title": "Romaguera-Crona",
+      "qualification": "aggregate real-time technologies",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    },
+    {
+      "name": "Clementina DuBuque",
+      "title": "Hoeger LLC",
+      "qualification": "target end-to-end models",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    }
+  ],
+  "partners": [
+    {
+      "name": "Leanne Graham",
+      "title": "Romaguera-Crona",
+      "qualification": "harness real-time e-markets",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    },
+    {
+      "name": "Ervin Howell",
+      "title": "Deckow-Crist",
+      "qualification": "synergize scalable supply-chains",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim"
+    },
+    {
+      "name": "Clementine Bauch",
+      "title": "Romaguera-Jacobson",
+      "qualification": "e-enable strategic applications",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    },
+    {
+      "name": "Patricia Lebsack",
+      "title": "Robel-Corkery",
+      "qualification": "transition cutting-edge web services",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    },
+    {
+      "name": "Chelsey Dietrich",
+      "title": "Keebler LLC",
+      "qualification": "revolutionize end-to-end systems",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    },
+    {
+      "name": "Mrs. Dennis Schulist",
+      "title": "Johns Group",
+      "qualification": "generate enterprise e-tailers",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    },
+    {
+      "name": "Nicholas Runolfsdottir V",
+      "title": "Yost and Sons",
+      "qualification": "e-enable extensible e-tailers",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    },
+    {
+      "name": "Glenna Reichert",
+      "title": "Romaguera-Crona",
+      "qualification": "aggregate real-time technologies",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    },
+    {
+      "name": "Clementina DuBuque",
+      "title": "Hoeger LLC",
+      "qualification": "target end-to-end models",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    }
+  ],
+  "delegates": [
+    {
+      "name": "Leanne Graham",
+      "title": "Romaguera-Crona",
+      "qualification": "harness real-time e-markets",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    },
+    {
+      "name": "Ervin Howell",
+      "title": "Deckow-Crist",
+      "qualification": "synergize scalable supply-chains",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim"
+    },
+    {
+      "name": "Clementine Bauch",
+      "title": "Romaguera-Jacobson",
+      "qualification": "e-enable strategic applications",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    },
+    {
+      "name": "Patricia Lebsack",
+      "title": "Robel-Corkery",
+      "qualification": "transition cutting-edge web services",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    },
+    {
+      "name": "Chelsey Dietrich",
+      "title": "Keebler LLC",
+      "qualification": "revolutionize end-to-end systems",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    },
+    {
+      "name": "Mrs. Dennis Schulist",
+      "title": "Johns Group",
+      "qualification": "generate enterprise e-tailers",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    },
+    {
+      "name": "Nicholas Runolfsdottir V",
+      "title": "Yost and Sons",
+      "qualification": "e-enable extensible e-tailers",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    },
+    {
+      "name": "Glenna Reichert",
+      "title": "Romaguera-Crona",
+      "qualification": "aggregate real-time technologies",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    },
+    {
+      "name": "Clementina DuBuque",
+      "title": "Hoeger LLC",
+      "qualification": "target end-to-end models",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+    }
+  ]
+}
