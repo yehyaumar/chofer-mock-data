@@ -1,119 +1,196 @@
 {
   "speakers": [
     {
+      "image": "https://dummyimage.com/400x400/b6ba72/ffffff.png&text=L",
       "name": "Leanne Graham",
       "title": "Romaguera-Crona",
       "qualification": "harness real-time e-markets",
-      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. "
     },
     {
+      "image": "https://dummyimage.com/400x400/c9c42f/ffffff.png&text=E",
       "name": "Ervin Howell",
       "title": "Deckow-Crist",
       "qualification": "synergize scalable supply-chains",
       "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim"
     },
     {
+      "image": "https://dummyimage.com/400x400/571bbf/ffffff.png&text=C",
       "name": "Clementine Bauch",
       "title": "Romaguera-Jacobson",
       "qualification": "e-enable strategic applications",
-      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. "
     },
     {
+      "image": "https://dummyimage.com/400x400/304fc7/ffffff.png&text=P",
       "name": "Patricia Lebsack",
       "title": "Robel-Corkery",
       "qualification": "transition cutting-edge web services",
-      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus."
     },
     {
+      "image": "https://dummyimage.com/400x400/3b3d3d/ffffff.png&text=C",
       "name": "Chelsey Dietrich",
       "title": "Keebler LLC",
       "qualification": "revolutionize end-to-end systems",
-      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam."
     }
   ],
 
   "organisers": [
     {
-      "name": "Leanne Graham",
-      "title": "Romaguera-Crona",
-      "qualification": "harness real-time e-markets",
-      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+      "logo": "https://dummyimage.com/400x400/26912b/ffffff.png&text=V",
+      "name": "Valiant Business Media",
+      "address": "5th County, LA",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem "
     },
     {
-      "name": "Ervin Howell",
-      "title": "Deckow-Crist",
-      "qualification": "synergize scalable supply-chains",
+      "logo": "https://dummyimage.com/400x400/4824d6/ffffff.png&text=H",
+      "name": "Hevlett Peckard",
+      "address": "N Dakota, New Jersey",
       "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim"
     },
     {
-      "name": "Clementine Bauch",
-      "title": "Romaguera-Jacobson",
-      "qualification": "e-enable strategic applications",
-      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+      "logo": "https://dummyimage.com/400x400/d63648/ffffff.png&text=M",
+      "name": "Moinjidaro Inc.",
+      "address": "West Mile, Sahara",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus."
     },
     {
-      "name": "Patricia Lebsack",
-      "title": "Robel-Corkery",
-      "qualification": "transition cutting-edge web services",
-      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+      "logo": "https://dummyimage.com/400x400/b6ba72/ffffff.png&text=P",
+      "name": "Patricia Org",
+      "address": "Robel-Corkery",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel"
+    },
+    {
+      "logo": "https://dummyimage.com/400x400/26912b/ffffff.png&text=V",
+      "name": "Valiant Business Media",
+      "address": "5th County, LA",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem "
+    },
+    {
+      "logo": "https://dummyimage.com/400x400/4824d6/ffffff.png&text=H",
+      "name": "Hevlett Peckard",
+      "address": "N Dakota, New Jersey",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim"
+    },
+    {
+      "logo": "https://dummyimage.com/400x400/d63648/ffffff.png&text=M",
+      "name": "Moinjidaro Inc.",
+      "address": "West Mile, Sahara",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus."
+    },
+    {
+      "logo": "https://dummyimage.com/400x400/b6ba72/ffffff.png&text=P",
+      "name": "Patricia Org",
+      "address": "Robel-Corkery",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel"
     }
   ],
-  "partners": [
+  "sponsors": [
     {
-      "name": "Leanne Graham",
-      "title": "Romaguera-Crona",
-      "qualification": "harness real-time e-markets",
-      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+      "logo": "https://dummyimage.com/400x400/d63648/ffffff.png&text=M",
+      "name": "Melominac Inc.",
+      "address": "Jerebola, Sudan",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto"
     },
     {
-      "name": "Ervin Howell",
-      "title": "Deckow-Crist",
-      "qualification": "synergize scalable supply-chains",
-      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim"
+      "logo": "https://dummyimage.com/400x400/ba771f/ffffff.png&text=M",
+      "name": "Moitre Studio",
+      "address": "Sydney, Australia",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim reprehenderit iusto quo"
     },
     {
-      "name": "Clementine Bauch",
-      "title": "Romaguera-Jacobson",
-      "qualification": "e-enable strategic applications",
-      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+      "logo": "https://dummyimage.com/400x400/208a2c/ffffff.png&text=B",
+      "name": "Bauch Graham Tn",
+      "address": "Lahsa, Tibet",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit "
     },
     {
-      "name": "Patricia Lebsack",
-      "title": "Robel-Corkery",
-      "qualification": "transition cutting-edge web services",
-      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+      "logo": "https://dummyimage.com/400x400/b6ba72/ffffff.png&text=L",
+      "name": "Lebsack Zert Inc.",
+      "address": "Koala, Moscow",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto"
     },
     {
-      "name": "Chelsey Dietrich",
-      "title": "Keebler LLC",
-      "qualification": "revolutionize end-to-end systems",
-      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+      "logo": "https://dummyimage.com/400x400/4824d6/ffffff.png&text=D",
+      "name": "Dietrich Z",
+      "title": "Birmhingham, UK",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem."
+    },
+    {
+      "logo": "https://dummyimage.com/400x400/d63648/ffffff.png&text=M",
+      "name": "Moitre Studio",
+      "address": "Sydney, Australia",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim reprehenderit iusto quo"
+    },
+    {
+      "logo": "https://dummyimage.com/400x400/208a2c/ffffff.png&text=B",
+      "name": "Bauch Graham Tn",
+      "address": "Lahsa, Tibet",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit "
+    },
+    {
+      "logo": "https://dummyimage.com/400x400/b6ba72/ffffff.png&text=L",
+      "name": "Lebsack Zert Inc.",
+      "address": "Koala, Moscow",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto"
+    },
+    {
+      "logo": "https://dummyimage.com/400x400/4824d6/ffffff.png&text=D",
+      "name": "Dietrich Z",
+      "title": "Birmhingham, UK",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem."
     }
   ],
-  "delegates": [
+  "exhibitors": [
     {
-      "name": "Leanne Graham",
-      "title": "Romaguera-Crona",
-      "qualification": "harness real-time e-markets",
-      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+      "logo": "https://dummyimage.com/400x400/571bbf/ffffff.png&text=L",
+      "name": "Lebsack Zert Inc.",
+      "address": "Koala, Moscow",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto"
     },
     {
-      "name": "Ervin Howell",
-      "title": "Deckow-Crist",
-      "qualification": "synergize scalable supply-chains",
+      "logo": "https://dummyimage.com/400x400/22c9c9/ffffff.png&text=P",
+      "name": "Patricia Org",
+      "address": "Robel-Corkery",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel"
+    },
+    {
+      "logo": "https://dummyimage.com/400x400/3b3d3d/ffffff.png&text=V",
+      "name": "Valiant Business Media",
+      "address": "5th County, LA",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem "
+    },
+    {
+      "logo": "https://dummyimage.com/400x400/24bf4b/ffffff.png&text=M",
+      "name": "Moinjidaro Inc.",
+      "address": "West Mile, Sahara",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus."
+    },
+    {
+      "logo": "https://dummyimage.com/400x400/c9c42f/ffffff.png&text=M",
+      "name": "Melominac Inc.",
+      "address": "Jerebola, Sudan",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto"
+    },
+    {
+      "logo": "https://dummyimage.com/400x400/4824d6/ffffff.png&text=D",
+      "name": "Hevlett Peckard",
+      "address": "N Dakota, New Jersey",
       "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim"
     },
     {
-      "name": "Clementine Bauch",
-      "title": "Romaguera-Jacobson",
-      "qualification": "e-enable strategic applications",
-      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+      "logo": "https://dummyimage.com/400x400/304fc7/ffffff.png&text=M",
+      "name": "Moitre Studio",
+      "address": "Sydney, Australia",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim reprehenderit iusto quo"
     },
     {
-      "name": "Patricia Lebsack",
-      "title": "Robel-Corkery",
-      "qualification": "transition cutting-edge web services",
-      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit accusamus eveniet sit. Omnis pariatur cumque et et. Amet numquam saepe quam dicta vero saepe."
+      "logo": "https://dummyimage.com/400x400/24bf4b/ffffff.png&text=B",
+      "name": "Bauch Graham Tn",
+      "address": "Lahsa, Tibet",
+      "description": "Autem ab aspernatur itaque eveniet quo reprehenderit iusto quo. Voluptates libero iusto aliquam. A qui maiores animi quisquam est vel numquam.Dolorem voluptatem inventore quidem. Enim molestias magni est voluptatibus. Vel architecto quas et et.Temporibus temporibus omnis qui fugit "
     }
   ]
 }
